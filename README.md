@@ -1,4 +1,4 @@
-﻿## About SBRFPinpad ##
+## About SBRFPinpad ##
 SBRFPinpad is a SBRFSRV.Server (sbrf.dll) C# wrapper
 
 ## Features ##
